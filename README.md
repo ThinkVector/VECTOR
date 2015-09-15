@@ -3,7 +3,7 @@ VECTOR
 
 Thinking : Vector is an operating system. Refers to self-dependencies. Express them is its addiction: Hardware, Downlink, Software, User, Network, Connection, Server, Internet, Web, People, Uplink, Global. Integrity intact allows access to all units. The graphical logos are used for descriptive expression vector. Superior thinking, the operating system is VECTOR.
 
-UPLINK Primay Static Class
+UPLINK Primary Static Class
 https://github.com/ThinkVector/VECTOR/blob/master/primeVectorClass.php
 
 ![vector logos](https://github.com/ThinkVector/VECTOR/blob/6f685d022d6ebaaf3252b7393d038bde8e6ea34b/vector.logos.png)
