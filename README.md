@@ -1,7 +1,7 @@
 VECTOR
 ======
 
-Thinking : Vector is an operating system. Refers to self-dependencies. Express them is its addiction: Hardware, Downlink, Software, User, Network, Connection, Server, Internet, Web, People, Uplink, Global. Integrity intact allows access to all units. The graphical logos are used for descriptive expression vector. Superior thinking, the operating system is VECTOR. Static primary uplink class easy to support, real time operating system features, and also other parties for the use of hyper operating system features.
+Thinking : Vector is an operating system. Refers to self-dependencies. Express them is its addiction: Hardware, Downlink, Software, User, Network, Connection, Server, Internet, Web, People, Uplink, Global. Integrity intact allows access to all units. The graphical logos are used for descriptive expression vector. Superior thinking, the operating system is VECTOR. Static uplink primary class easy to support, real time operating system features, and also other parties for the use of hyper operating system features.
 
 
 UPLINK Primary Static Class
