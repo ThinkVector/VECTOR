@@ -11,7 +11,7 @@
  * shows the analytical plane. Vector in the first series
  * of the formula, primes numbers say bid welcome to us.
  *********************************************************************************************
- * @author Ferdi Tekin <ferditekin@polimore.com>
+ * @author Ferdi Tekin <ferditekin@gmail.com> <ferditekin@outlook.com>
  * @version 1.1
  * @package Release
  * @sourcecode 
