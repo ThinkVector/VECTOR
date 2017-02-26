@@ -29,10 +29,10 @@ Cube dimension 9 special points:
 		ta1 (x4, y4, z4)
 
 	Dimension rectangle:
-		ax1 (x1, y1, z1)
-		ay1 (x2, y2, z2)
-		az1 (x3, y3, z3)
-		at1 (x4, y4, z4)
+		xv1 (x1, y1, z1)
+		yv1 (x2, y2, z2)
+		zv1 (x3, y3, z3)
+		tv1 (x4, y4, z4)
 
 	Self time:
 		t1 (tx1, ty1, tz1)
@@ -40,16 +40,28 @@ Cube dimension 9 special points:
 	Dimension time:
 		t2 (tx2, ty2, tz2)
 
+	Self min:
+		sdr1 (x1, y1, z1)
+
+	Self max:
+		sdr2 (x2, y2, z2)
+
+	Dimension min:
+		ddr1 (x1, y1, z1)
+
+	Dimension max:
+		ddr2 (x2, y2, z2)
+
 	Area color:
-		cr (R9, G9, B9, A9)
-		ch (R8, G8, B8, A8)
-		cg (R7, G7, B7, A7)
-		cf (R6, G6, B6, A6)
-		ce (R5, G5, B5, A5)
-		cd (R4, G4, B4, A4)
-		cc (R3, G3, B3, A3)
-		cb (R2, G2, B2, A2)
-		ca (R1, G1, B1, A1)
+		car (R9, G9, B9, A9)
+		cah (R8, G8, B8, A8)
+		cag (R7, G7, B7, A7)
+		caf (R6, G6, B6, A6)
+		cae (R5, G5, B5, A5)
+		cad (R4, G4, B4, A4)
+		cac (R3, G3, B3, A3)
+		cab (R2, G2, B2, A2)
+		caa (R1, G1, B1, A1)
 
 	Dimension color:
 		czr (R9, G9, B9, A9)
@@ -189,7 +201,11 @@ Vectors: Self Rectangle:	{xa1, ya1, za1, ta1}
 Vectors: Dimension Rectangle:	{ax1, ay1, az1, at1}
 Vectors: Self Time:		{t1}
 Vectors: Dimension Time:    	{t2}
-Vectors: Area Color:		{cr,  ch,  cg,  cf,  ce,  cd,  cc,  cb,  ca}
+Vectors: Self Min:		{sdr1}
+Vectors: Self Max: 		{sdr2}
+Vectors: Dimension Min:		{ddr1}
+Vectors: Dimension Max: 	{ddr2}
+Vectors: Area Color:		{car, cah, cag, caf, cae, cad, cac, cab, caa}
 Vectors: Dimension Color:   	{czr, czh, czg, cyf, cye, cyd, cxc, cxb, cxa}
 
 Hexagon 2: 		H2:		H2L,   H2R,   H2A,   H2AO
@@ -204,9 +220,3 @@ Hexagon 2 Pentagon:	H2P:		H2PL,  H2PR,  H2PA,  H2PAO
 Hexagon 2 Shpere:	H2SP:		H2SPL, H2SPR, H2SPA, H2SPAO, H2SPV
 Hexagon 2 Cube:		H2CU:		H2CUL, H2CUR, H2CUA, H2CUAO, H2CUV
 ***************************************************************************
-
-
-
-
-
-
