@@ -225,18 +225,20 @@ Hexagon 2 cube: H2CU
 ***************************************************************************
 Summary:
 ***************************************************************************
-Vectors: Self: 		       	{a,   b,   c,   d,   e,   f,   g,   h,   r} 
-Vectors: Dimension: 	      	{xa,  xb,  xc,  yd,  ye,  yf,  zg,  zh,  zr}
-Vectors: Self Rectangle:	{xa1, ya1, za1, ta1}
-Vectors: Dimension Rectangle:	{ax1, ay1, az1, at1}
-Vectors: Self Time:		{t1}
-Vectors: Dimension Time:    	{t2}
-Vectors: Self Min:		{sdr1}
-Vectors: Self Max: 		{sdr2}
-Vectors: Dimension Min:		{ddr1}
-Vectors: Dimension Max: 	{ddr2}
-Vectors: Area Color:		{car, cah, cag, caf, cae, cad, cac, cab, caa}
-Vectors: Dimension Color:   	{czr, czh, czg, cyf, cye, cyd, cxc, cxb, cxa}
+Vectors: Self: 		       		{a,   b,   c,   d,   e,   f,   g,   h,   r} 
+Vectors: Dimension: 	      		{xa,  xb,  xc,  yd,  ye,  yf,  zg,  zh,  zr}
+Vectors: Self Rectangle:		{xa1, ya1, za1, ta1}
+Vectors: Dimension Rectangle:		{ax1, ay1, az1, at1}
+Vectors: Self Time:			{t1}
+Vectors: Dimension Time:    		{t2}
+Vectors: Self Min:			{sdr1}
+Vectors: Self Max: 			{sdr2}
+Vectors: Dimension Min:			{ddr1}
+Vectors: Dimension Max:			{ddr2}
+Vectors: Self Transform Angles:		{roor1}
+Vectors: Dimension Transform Angles:	{roor2}
+Vectors: Area Color:			{car, cah, cag, caf, cae, cad, cac, cab, caa}
+Vectors: Dimension Color:   		{czr, czh, czg, cyf, cye, cyd, cxc, cxb, cxa}
 
 Hexagon 2: 		H2:		H2L,   H2R,   H2A,   H2AO
 Hexagon 1 Signal: 	H1S:		H1SL,  H1SR,  H1SA,  H1SAO
