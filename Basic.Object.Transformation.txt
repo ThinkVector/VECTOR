@@ -205,15 +205,15 @@ Hexagon 2 pyramide: H2PY
 
 Hexagon 2 cube: H2CU
 	Lenght: H2CUL
-	{(a,b), (b,c), (c,d), (d,e), (e,f), (f,a), (f,g), (g,b), (g,d), (h,a), (h,c), (h,e)}
+	{(a), (b), (c), (d), (e), (f), (f), (g), (h)}
 	Radius: H2CUR
 	{(a,r), (b,r), (c,r), (d,r), (e,r), (f,r), (g,r), (h,r)}
 	Area color: H2CUA
-	{(a,b), (b,c), (c,d), (d,e), (e,f), (f,a), (f,g), (g,b), (g,d), (h,a), (h,c), (h,e)}, {(cr)}
+	{(a), (b), (c), (d), (e), (f), (f), (g), (h)}, {(cr)}
 	Area out color: H2CUAO
-	{(czr)}, {(a,b), (b,c), (c,d), (d,e), (e,f), (f,a), (f,g), (g,b), (g,d), (h,a), (h,c), (h,e)}		
+	{(czr)}, {(a), (b), (c), (d), (e), (f), (f), (g), (h)}		
 	Solid color: H2CUV
-	{(a,b), (b,c), (c,d), (d,e), (e,f), (f,a), (f,g), (g,b), (g,d), (h,a), (h,c), (h,e)}, {(cr)}
+	{(a), (b), (c), (d), (e), (f), (f), (g), (h)}, {(cr)}
 
 
 ***************************************************************************
