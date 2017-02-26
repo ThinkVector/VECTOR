@@ -181,30 +181,29 @@ Hexagon 2 cube: H2CU
 
 
 ***************************************************************************
-
 Summary:
-
-Vectors: Self: 		          	{a,   b,   c,   d,   e,   f,   g,   h,   r} 
+***************************************************************************
+Vectors: Self: 		       	{a,   b,   c,   d,   e,   f,   g,   h,   r} 
 Vectors: Dimension: 	      	{xa,  xb,  xc,  yd,  ye,  yf,  zg,  zh,  zr}
-Vectors: Self Rectangle:	    {xa1, ya1, za1, ta1}
+Vectors: Self Rectangle:	{xa1, ya1, za1, ta1}
 Vectors: Dimension Rectangle:	{ax1, ay1, az1, at1}
-Vectors: Self Time:		        {t1}
+Vectors: Self Time:		{t1}
 Vectors: Dimension Time:    	{t2}
-Vectors: Area Color:		      {cr,  ch,  cg,  cf,  ce,  cd,  cc,  cb,  ca}
+Vectors: Area Color:		{cr,  ch,  cg,  cf,  ce,  cd,  cc,  cb,  ca}
 Vectors: Dimension Color:   	{czr, czh, czg, cyf, cye, cyd, cxc, cxb, cxa}
 
-Hexagon 2: 		      H2:		  H2L,   H2R,   H2A,   H2AO
+Hexagon 2: 		H2:		H2L,   H2R,   H2A,   H2AO
 Hexagon 1 Signal: 	H1S:		H1SL,  H1SR,  H1SA,  H1SAO
 Hexagon 1 Circle: 	H1C:		H1CL,  H1CR,  H1CA,  H1CAO
 Hexagon 1 Triangle:	H1T:		H1TL,  H1TR,  H1TA,  H1TAO
 Hexagon 1 Square: 	H1Q:		H1QL,  H1QR,  H1QA,  H1QAO
-Hexagon 2 Signal:	  H2S:		H2SL,  H2SR,  H2SA,  H2SAO
-Hexagon 2 Circle:	  H2C:		H2CL,  H2CR,  H2CA,  H2CAO
-Hexagon 2 Square:	  H2Q:		H2QL,  H2QR,  H2QA,  H2QAO
+Hexagon 2 Signal:	H2S:		H2SL,  H2SR,  H2SA,  H2SAO
+Hexagon 2 Circle:	H2C:		H2CL,  H2CR,  H2CA,  H2CAO
+Hexagon 2 Square:	H2Q:		H2QL,  H2QR,  H2QA,  H2QAO
 Hexagon 2 Pentagon:	H2P:		H2PL,  H2PR,  H2PA,  H2PAO
-Hexagon 2 Shpere:	  H2SP:		H2SPL, H2SPR, H2SPA, H2SPAO, H2SPV
-Hexagon 2 Cube:		  H2CU:		H2CUL, H2CUR, H2CUA, H2CUAO, H2CUV
-
+Hexagon 2 Shpere:	H2SP:		H2SPL, H2SPR, H2SPA, H2SPAO, H2SPV
+Hexagon 2 Cube:		H2CU:		H2CUL, H2CUR, H2CUA, H2CUAO, H2CUV
+***************************************************************************
 
 
 
