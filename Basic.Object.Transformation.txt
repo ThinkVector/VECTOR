@@ -279,8 +279,8 @@ Vectors: Self Transform Angles:		{roor1}
 Vectors: Dimension Transform Angles:	{roor2}
 Vectors: Self move position:		{move1}
 Vectors: Dimension move positon:	{move2}
-Vectors: Self move path:		{movep1}
-Vectors: Dimension move path:		{movep2}
+Vectors: Self move path:		{* movep1}
+Vectors: Dimension move path:		{* movep2}
 Vectors: Area Color:			{car, cah, cag, caf, cae, cad, cac, cab, caa}
 Vectors: Dimension Color:   		{czr, czh, czg, cyf, cye, cyd, cxc, cxb, cxa}
 
